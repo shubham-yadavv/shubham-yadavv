@@ -8,6 +8,8 @@
 <a href="https://twitter.com/Shubham22121">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+###About me
+🎓 I’m an Open-Source enthusiast
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubh22121)
