@@ -1,5 +1,11 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shubham!
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=shubh22121)
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 <!--
 **shubh22121/shubh22121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
