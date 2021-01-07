@@ -4,8 +4,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubh22121)
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shubh22121.shubh22121)
-
 
 <a href="https://www.linkedin.com/in/Shubham Yadav">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -15,19 +13,8 @@
 </a>
 
 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shubh22121.shubh22121)
 
 
 
-**shubh22121/shubh22121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
