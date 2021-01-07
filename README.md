@@ -5,7 +5,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubh22121)
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shubh22121.shubh22121)
 <!--
 **shubh22121/shubh22121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
