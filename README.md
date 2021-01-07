@@ -9,7 +9,7 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 
 
-<br />
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubh22121)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shubh22121.shubh22121)
