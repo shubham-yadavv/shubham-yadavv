@@ -16,8 +16,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shubh22121)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shubh22121.shubh22121)
-
-
 <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&count_private=true&theme=tokyonight&line_height=52">
 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shubh22121.shubh22121)
