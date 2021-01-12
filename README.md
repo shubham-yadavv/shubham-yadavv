@@ -14,8 +14,9 @@
 🎓 I’m an Open-Source enthusiast
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shubh22121)
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=shubh22121&show_icons=true&theme=tokyonight&line_height=52" />
 <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&count_private=true&theme=tokyonight&line_height=52">
 
 
