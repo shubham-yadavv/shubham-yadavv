@@ -11,12 +11,8 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubh22121&show_icons=true&theme=tokyonight&line_height=52" />
+🎓 I’m an Open-Source enthusias
+![Shubham's github stats]<img src="https://github-readme-stats.vercel.app/api?username=shubh22121&show_icons=true&theme=tokyonight&line_height=52" />
 <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&count_private=true&theme=tokyonight&line_height=52">
 
 
