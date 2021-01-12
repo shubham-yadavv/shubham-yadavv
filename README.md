@@ -13,7 +13,7 @@
 ### About Me 🚀
 🎓 I’m an Open-Source enthusias
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=kunal-kushwaha&show_icons=true&theme=tokyonight&hide_border=true)
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubh22121&show_icons=true&theme=tokyonight&hide_border=true)
 
 <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&count_private=true&theme=tokyonight&line_height=52">
 
