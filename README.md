@@ -13,9 +13,9 @@
 ### About Me 🚀
 🎓 I’m an Open-Source enthusias
 
-![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubh22121&show_icons=true&hide_border=true)
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=shubh22121&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&count_private=true&line_height=52">
+<img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&theme=tokyonight&count_private=true&line_height=52">
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shubh22121.shubh22121)
