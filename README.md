@@ -5,7 +5,6 @@
 
 [![twitter Badge](https://img.shields.io/badge/-Shubham22121-blue?style=flat-square&logo=twitter&logoColor=white&link=https://https://twitter.com/Shubham22121)](https://www.twitter.com/Shubham22121)
 
-<br />
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusias
