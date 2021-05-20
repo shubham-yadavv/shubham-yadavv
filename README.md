@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShubhamYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-yadav-3848261aa/)](https://www.linkedin.com/in/shubham-yadav-3848261aa/)
 
-[![twitter Badge](https://img.shields.io/badge/-ShubhamYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://twitter.com/Shubham22121)](https://www.twitter.com/Shubham22121)
+[![twitter Badge](https://img.shields.io/badge/-ShubhamYadav-blue?style=flat-square&logo=twitter&logoColor=white&link=https://https://twitter.com/Shubham22121)](https://www.twitter.com/Shubham22121)
 
 <a href="https://twitter.com/Shubham22121">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
