@@ -10,14 +10,10 @@
 
 
 
-<p align="center">
-	
-	<img width="37.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121langs_count=5&theme=tokyonight&hide_border=true">
-	<img width="37.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&theme=tokyonight&count_private=true&line_height=52">
 
+<img width="37.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121langs_count=5&theme=tokyonight&hide_border=true">
+<img width="37.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&theme=tokyonight&count_private=true&line_height=52">
 
-
-</p>
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubh22121&show_icons=true&theme=tokyonight" />
