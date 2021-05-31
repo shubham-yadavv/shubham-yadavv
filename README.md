@@ -17,8 +17,10 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubh22121&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh22121&theme=tokyonight" />
 </p>
-<img width="37.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&theme=tokyonight&count_private=true&line_height=52">
 
+<p align="centre">
+<img width="37.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&theme=tokyonight&count_private=true&line_height=52">
+</p>
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shubh22121.shubh22121)
