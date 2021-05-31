@@ -11,7 +11,6 @@
 
 
 
-<img width="37.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121langs_count=5&theme=tokyonight&hide_border=true">
 <img width="37.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&theme=tokyonight&count_private=true&line_height=52">
 
 <p align="center">
