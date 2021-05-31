@@ -13,7 +13,7 @@
 
 <img width="37.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&theme=tokyonight&count_private=true&line_height=52">
 
-<p align="center">
+<p align="left">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubh22121&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh22121&theme=tokyonight" />
