@@ -18,7 +18,7 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh22121&theme=tokyonight" />
 </p>
 
-<p align="center">
+<p align="left">
 <img width="37.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&theme=tokyonight&line_height=52">
 </p>
 
