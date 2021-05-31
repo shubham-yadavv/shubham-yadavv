@@ -12,7 +12,7 @@
 
 <img width="37.3%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&theme=tokyonight&count_private=true&line_height=52">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&langs_count=5&theme=gruvbox&bg_color=333333)
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&langs_count=5&theme=tokyonight&count_private=true&line_height=52)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shubh22121.shubh22121)
 
 
