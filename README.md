@@ -6,11 +6,8 @@
 
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusias
+🎓 I’m an Open-Source enthusias, Developer
 
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shubh22121&theme=tokyonight)](https://git.io/streak-stats)
 
 <p align="left">
 	
