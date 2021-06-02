@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ShubhamYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-yadav-3848261aa/)](https://www.linkedin.com/in/shubham-yadav-3848261aa/)
 [![twitter Badge](https://img.shields.io/badge/-Shubham22121-blue?style=flat-square&logo=twitter&logoColor=white&link=https://https://twitter.com/Shubham22121)](https://www.twitter.com/Shubham22121)
-[![dev Badge](https://img.shields.io/badge/-shubh-03a57a?style=flat-square&labelColor=000000&logo=dev&link=https://dev.to/shubh)](https://dev.to/shubh)
+[![dev Badge](https://img.shields.io/badge/-shubh-03a57a?style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.to/shubh)](https://dev.to/shubh)
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusias | Developer
