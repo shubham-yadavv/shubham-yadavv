@@ -6,7 +6,7 @@
 
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusias, Developer
+🎓 I’m an Open-Source enthusias | Developer
 
 
 <p align="left">
