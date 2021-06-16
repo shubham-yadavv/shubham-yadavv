@@ -6,7 +6,7 @@
 [![dev Badge](https://img.shields.io/badge/-dev.to/shubh-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://dev.to/shubh)](https://dev.to/shubh)
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusias | Developer
+🎓 I’m an Open-Source enthusiast | Developer
 
 
 <p align="left">
