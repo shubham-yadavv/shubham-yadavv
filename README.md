@@ -1,8 +1,8 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shubham!
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ShubhamYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-yadav-3848261aa/)](https://www.linkedin.com/in/shubham-yadav-3848261aa/)
-[![twitter Badge](https://img.shields.io/badge/-shubhztwt-blue?style=flat-square&logo=twitter&logoColor=white&link=https://https://twitter.com/Shubham22121)](https://www.twitter.com/shubhztwt)
+<a href="https://www.linkedin.com/in/shubham-yadav-3848261aa//" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="Shubham Yadav" height="50" width="50"/></a>
+<a href="https://twitter.com/shubhztwt" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/twitter.png" alt="Palak" height="50" width="50"/></a>
 [![dev Badge](https://img.shields.io/badge/-dev.to/shubh-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://dev.to/shubh)](https://dev.to/shubh)
 
 ### About Me 🚀
