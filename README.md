@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/shubham-yadav-3848261aa//" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/linkedin.png" alt="Shubham Yadav" height="50" width="50"/></a>
-<a href="https://twitter.com/shubhztwt" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/twitter.png" alt="Palak" height="50" width="50"/></a>
+<a href="https://twitter.com/shubhztwt" target="blank"><img align="center" src="https://img.icons8.com/color/64/000000/twitter.png" alt="Shubh" height="50" width="50"/></a>
 [![dev Badge](https://img.shields.io/badge/-dev.to/shubh-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://dev.to/shubh)](https://dev.to/shubh)
 
 ### About Me 🚀
