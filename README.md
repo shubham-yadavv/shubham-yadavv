@@ -1,10 +1,9 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shubham!
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-ShubhamYadav-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shubham-yadav-3848261aa/)](https://www.linkedin.com/in/shivaylamba/)
-[![Twitter Badge](http://img.shields.io/badge/-@shubhztwt-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/shubhztwt)](https://twitter.com/howdevelop) 
-[![dev Badge](https://img.shields.io/badge/-dev.to/shubh-03a57a?style=social&logo=Medium&logoColor=black&link=https://dev.to/shubh)](https://dev.to/shubh)
-
+<a href="https://twitter.com/shubhztwt" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a> <a href="https://www.linkedin.com/in/shubham-yadav-3848261aa/" target="_blank"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> <a href="https://dev.to/shubh" target="_blank"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white">
+</a>
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast | Developer
 
