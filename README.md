@@ -19,14 +19,14 @@
 
 <p align="left">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubh22121&show_icons=true&theme=tokyonight"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubh22121&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shubham-yadavv&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-yadavv&theme=tokyonight"/>
   
 </p>
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubh22121&show_icons=true&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-yadavv&show_icons=true&theme=tokyonight&layout=compact)
 
 
 
