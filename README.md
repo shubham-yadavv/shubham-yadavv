@@ -7,7 +7,7 @@
 <a href="https://twitter.com/shubhztwt">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a>
-<a href="https://shubh22121.hashnode.dev/">
+<a href="https://shubhamyadav.hashnode.dev">
   <img align="left" width="26px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
 </a>
 
